@@ -1,0 +1,1 @@
+example for creatiing repo from CLI and push to git hub
